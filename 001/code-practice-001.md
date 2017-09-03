@@ -1,6 +1,6 @@
 # Code Practice 001
 
-## Requirements
+## Objective
 Create a simple HTML page with the following elements:
 - Title
 - Heading
